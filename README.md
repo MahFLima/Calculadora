@@ -1,4 +1,6 @@
 
+<h1 margin-top="25px" >Calculadora in React and TypeScript</h1>
+
 <p align="center" margin-top="25px" >
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Mahflima/calculadora?color=015F43">
 
@@ -7,13 +9,14 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/Mahflima/calculadora?color=81D8F7">
 </p>
 
-<img src="./src/assets/calculadora.gif">
+<div align="center"><img src="./src/assets/calculadora.gif"></div>
 
-<a href="https://calculadora-three-pied.vercel.app/">Link do projeto</a>
+
 
 # 🧠 Sobre
 
-Calculadora simples em React e TypeScript
+Calculadora simples em React e TypeScript 
+<a href="https://calculadora-three-pied.vercel.app/">(Link do projeto)</a>
 
 
 # 📚 Tecnologias utilizadas
