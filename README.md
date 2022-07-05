@@ -7,7 +7,7 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/Mahflima/calculadora?color=81D8F7">
 </p>
 
-<img src="./assets/calculadora.gif">
+<img src="./src/assets/calculadora.gif">
 
 <a href="https://calculadora-three-pied.vercel.app/">Link do projeto</a>
 
